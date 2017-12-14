@@ -1,7 +1,7 @@
 mackerel-plugin-oracle
 ======================
 
-Oralce custom metrics plugin for mackerel.io agent.
+Oracle custom metrics plugin for mackerel.io agent.
 
 ## Synopsis
 
